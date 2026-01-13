@@ -1,6 +1,6 @@
 
 
-// import { NewAppScreen } from '@react-native/new-app-screen';
+
 import { Text, } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 // import { Text } from 'react-native/types_generated/index';
@@ -9,7 +9,7 @@ function App() {
 
   return (
     <SafeAreaView>
-      <Text> Text </Text>
+      <Text> Texts </Text>
     </SafeAreaView>
   );
 }
