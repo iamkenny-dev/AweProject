@@ -9,7 +9,7 @@ function App() {
 
   return (
     <SafeAreaView>
-      <Text> Text </Text>
+      <Text> Hello World 👋 🌍! </Text>
     </SafeAreaView>
   );
 }
