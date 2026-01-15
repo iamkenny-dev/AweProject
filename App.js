@@ -9,7 +9,7 @@ function App() {
 
   return (
     <SafeAreaView>
-      <Text> Texts </Text>
+      <Text> Text </Text>
     </SafeAreaView>
   );
 }
