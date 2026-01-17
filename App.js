@@ -18,10 +18,9 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   text: {
-    // alignSelf: 'center',
-
     fontSize: 30,
     fontWeight: 'bold',
+    fontStyle: 'italic',
   },
 });
 
