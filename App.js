@@ -5,7 +5,7 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 function App() {
   return (
     <SafeAreaView style={styles.container}>
-      <Text style={styles.text}> Hello World 👋 🌍! </Text>
+      <Text style={styles.text}> Hello World 👋 🌍!!! </Text>
     </SafeAreaView>
   );
 }
